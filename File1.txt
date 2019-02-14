@@ -1,13 +1,13 @@
 This is a file, where there will be conflicts to be solved during the merge!
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+.z2
+.t4
+.y11
+.u8
+.w3
+.c9
+.s4
+.qq
+.lul
+.צצ
+.תת
