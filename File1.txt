@@ -1,7 +1,7 @@
 This is a file, where there will be conflicts to be solved during the merge!
 
-.z2
-.t4
+.z23
+.r4
 .y11
 .u8
 .w3
@@ -9,5 +9,5 @@ This is a file, where there will be conflicts to be solved during the merge!
 .s4
 .qq
 .lul
-.��
-.��
+.12
+.54fg
