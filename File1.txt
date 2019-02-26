@@ -9,5 +9,5 @@ This is a file, where there will be conflicts to be solved during the merge!
 .s4
 .qq
 .lul
-.öö
-.úú
+.ï¿½ï¿½
+.ï¿½ï¿½
